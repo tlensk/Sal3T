@@ -7,4 +7,4 @@ Tatiana Lenskaia<sup>1,*</sup>
 <sup>*</sup> Corresponding author: t.lenskaia@utoronto.ca
 
 
-This repository contains code and supplemmentary material for the DT-helix phage tail tip study.
+This repository contains supplemmentary material for the DT-helix phage tail tip study.
