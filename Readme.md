@@ -1,10 +1,8 @@
-# A conserved distal-tail helical extension defines a morphogenetic class of tailspike-bearing Salmonella and related siphophages
+# A conserved distal-tail helical extension defines a tailspike attachment architecture in Gram-negative siphophages
 
-Tatiana Lenskaia<sup>1,*</sup>
+Tatiana Lenskaia, Ph.D., M.H.I.
 
-<sup>1</sup> Department of Molecular Genetics, University of Toronto, Toronto, ON, Canada
-
-<sup>*</sup> Corresponding author: t.lenskaia@utoronto.ca
+Email: t.lenskaia@icloud.com
 
 
 This repository contains supplemmentary material for the DT-helix phage tail tip study.
