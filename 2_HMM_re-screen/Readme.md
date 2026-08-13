@@ -9,4 +9,4 @@ This HMM set was created based on the clustering of 160 DT-helix phages into six
 
 **.fasta** - the corresponding seed Multiple Sequence Alignment (MSA) in a fasta format for each HMM.
 
-**DT-helix_HMM_re-screen.out** - the raw output of the DT-helix HMM re-screen.
+**A_DT-h_6cls.out** - the raw output of the DT-helix HMM re-screen.
