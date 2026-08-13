@@ -4,7 +4,7 @@ This directory contains information about the conducted structure-aware screenin
 
 The raw results of the screening are stored in __results.tsv__.
 
-
+### Initial screen
 The command for creating a local Foldseek ProstT5 database of all the proteins in 5167 phage genomes:
 
 
@@ -42,3 +42,37 @@ foldseek convertalis \
     resultDB \
     results.tsv
 ```
+
+
+
+### Subsequent screens
+
+(1) TRS1 AF model and TRS1 proteins:
+
+```
+foldseek search \     
+    DT_TRS1_db \
+    TRS1_prsdb \
+    resultDB \
+    tmp \        
+    -e 1e-3 \        
+    --max-seqs 1000     
+```
+
+The raw results of the screening are stored in __TRS1_results.tsv__.
+
+
+(2) 22 representative AF models and 2 Klebsiella phages proteins:
+
+```
+/Users/tatianalenskaia/foldseek/bin/foldseek search \     
+    DT_22db \
+    2Kleb_prsdb \
+    resultDB \
+    tmp \        
+    -e 1e-3 \        
+    --max-seqs 1000     
+```
+
+The raw results of the screening are stored in __2Kleb_results.tsv__.
+
