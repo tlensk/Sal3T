@@ -1,4 +1,4 @@
-# HADDOCK Web Server docking results
+# HADDOCK Web Server docking output
 
 Post-processing: SUCCESS
 
