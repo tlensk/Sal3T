@@ -9,7 +9,9 @@ __N-tailspike_165.csv__ contains pairwise percent identity for the extracted 165
 
 __C-tailspike_165.csv__ contains pairwise percent identity for the 165 remaining C-term regions of the corresponding tailspikes.
 
-__.fasta__ files contains the corresponding set of sequences.
+__fasta__ sub-directory contains the corresponding datasets.
+
+__png__ sub-directory contains the corresponding heatmaps.
 
 
 The order of genome IDs in consistent in all the three .csv files.
